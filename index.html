@@ -6,16 +6,23 @@
     background-color: #211E55;
     color: #FFFFFF;
     font-family: serif;
+  }
+  .flexbox {
+    display: -webkit-flex;
     display: flex;
+    -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
     justify-content: center;
     justify-content: center;
     align-items: center;
+    word-break: break-all;
   }
 </style>
 </head>
 <body>
-<div><h1>獅子座じゃない人の自由帳</h1></div>
-<div><h2>記事一覧（手動追加）</h2></div>
+<div class="flexbox">
+<h1>獅子座じゃない人の自由帳</h1>
+<h2>記事一覧（手動追加）</h2>
+</div>
 </body>
 </html>
