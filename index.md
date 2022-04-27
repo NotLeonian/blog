@@ -7,4 +7,4 @@ layout: default
 ## 記事一覧（手動更新）
 
 <p>（リンクをTwitter等に貼る場合は末尾の".pdf"を"/"に置き換えてくれるとありがたいです）</p>
-<p>2022/4/17　<a href="https://notleonian.github.io/blog/20220400/">今時ブログを使わないで文章を公開しようとしているやつがいるらしい</a></p>
+<p>2022/4/17　<a href="https://notleonian.github.io/blog/20220400.pdf">今時ブログを使わないで文章を公開しようとしているやつがいるらしい</a></p>
