@@ -3,5 +3,5 @@ theme: jekyll-theme-tactile
 title: 獅子座じゃない人の自由帳
 description: 制作後記や独り言など…
 google_analytics: G-P1CM10C7RM
-gems:
+plugins:
   - jekyll-sitemap
